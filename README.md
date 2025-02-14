@@ -112,4 +112,4 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 Nome: Matheus Girardi
 E-mail: girardimatheus27@gmail.com
-LinkedIn: Matheus Girardi
+LinkedIn: [Matheus Girardi](https://www.linkedin.com/feed/)
